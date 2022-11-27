@@ -1,0 +1,3 @@
+variable "hello" {
+  hello: "hello"
+}
